@@ -5,7 +5,8 @@
 package com.dsolerac.katas.facil;
 
 /**
- *
+ * http://www.solveet.com/exercises/Triangulacion-simple/126
+ * 
  * @author daniel.solera
  */
 public class TriangulacionSimple {
